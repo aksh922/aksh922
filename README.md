@@ -39,7 +39,7 @@
 
 ## Let’s Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/akshara-reddy-5551a5261/))  *  
+- [LinkedIn]((https://www.linkedin.com/in/akshara-reddy-5551a5261/))*  
 - Drop me a message here or via aksharareddy2004@gmail.com!
 
 ---
