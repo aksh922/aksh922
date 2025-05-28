@@ -1,6 +1,6 @@
 # 👋 Hi, I'm A. Akshara Reddy!
 
-🎓 I'm a final-year Engineering student with a passion for building smart, impactful solutions that blend **IoT**, **AI/ML**, and **full-stack development**. I enjoy working on projects that solve real-world problems—especially in healthcare, industrial automation, and smart systems.
+I'm a final-year Engineering student with a passion for building smart, impactful solutions that blend **IoT**, **AI/ML**, and **full-stack development**. I enjoy working on projects that solve real-world problems—especially in healthcare, industrial automation, and smart systems.
 
 ## What I'm exploring
 
@@ -39,7 +39,7 @@
 
 ## Let’s Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/akshara-reddy-5551a5261/))*  
+- [LinkedIn]([https://www.linkedin.com/in/profiles/](https://www.linkedin.com/in/akshara-reddy-5551a5261/))*  
 - Drop me a message here or via aksharareddy2004@gmail.com!
 
 ---
